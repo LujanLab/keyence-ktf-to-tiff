@@ -1,0 +1,9 @@
+*.exe
+*.ktf
+*.tif
+*.tiff
+*_metadata.xml
+__pycache__/
+build/
+dist/
+*.spec
